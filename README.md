@@ -1,4 +1,4 @@
-__<div align=center>A journey of a thousand miles begins with a single step.</div>___
+__<div align=center>A journey of a thousand miles begins with a single step.</div>__
 
                                        
 
