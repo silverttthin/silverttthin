@@ -1,1 +1,4 @@
-<a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/silverttthin" width="600" height="300"/></a>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=silverttthin)](https://solved.ac/silverttthin/)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=silverttthin&theme=calm&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
