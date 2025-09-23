@@ -1,4 +1,4 @@
-<p align="center"><b>질문을 잘, 많이 하자</b></p>
+<p align="center"><b>“It’s easier to fall in love with what you’re doing than to find something that you love.” -Jensen Huang- </b></p>
 <p></p>
 <p></p>
 <p></p>
