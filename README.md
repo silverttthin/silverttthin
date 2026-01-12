@@ -21,6 +21,6 @@
 - Excellence Prize, Kakao Tech Campus Ideathon
 - Grand Prize(Startup track), 6th PNU Creative Convergence SW Hackathon
   - and more
-- [Contribute experience](https://github.com/koomin1227/BOJ-Tester/issues/41)
+- [Contribute](https://github.com/koomin1227/BOJ-Tester/issues/41)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=silverttthin)](https://git.io/streak-stats)
