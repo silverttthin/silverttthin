@@ -18,9 +18,12 @@
 
 ### Etc
 - Chief of Staff of the Air Force Award, 2022 OSAM Hackathon
-- Excellence Prize, Kakao Tech Campus Ideathon
+- 2nd Place (Junior Category), 2024 PNU Tech Week Algorithm Contest
+- Participation Prize, 2025 Busan Public & Big Data Utilization Startup Competition
+- Excellence Prize, 2025 Kakao Tech Campus Ideathon
 - Grand Prize(Startup track), 6th PNU Creative Convergence SW Hackathon
-  - and more
-- [Contribute](https://github.com/koomin1227/BOJ-Tester/issues/41)
+- 2nd Place (Game Track), 2025 PNU Tech Week Hackathon
+ 
+- [Open source contribution](https://github.com/koomin1227/BOJ-Tester/issues/41)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=silverttthin)](https://git.io/streak-stats)
+
