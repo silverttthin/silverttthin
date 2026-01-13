@@ -1,6 +1,6 @@
 # Lee Si Woong
 
-### About me
+### Activities
 - Pusan National University CSE Senior (2020.03 ~ 2027.02)
 - [KAIST Madcamp](https://madcamp.io/) (2024.06 ~ 2024.07)
 - [Kakao Tech Campus](https://www.kakaotechcampus.com/kakaotech/about/list.do) (2025.04 ~ 2025.11)
@@ -25,5 +25,3 @@
 - 2nd Place (Game Track), 2025 PNU Tech Week Hackathon
  
 - [Open source contribution](https://github.com/koomin1227/BOJ-Tester/issues/41)
-
-
