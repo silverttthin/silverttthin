@@ -9,13 +9,6 @@
 ### Projects
 - coming soon
 
-
-### Interested in
-- reading hacker news
-- playing piano (currently learning [this](https://www.youtube.com/watch?v=QdfcrCxQFfU))
-- dabbling in cs engineering things!
-
-
 ### Etc
 - Chief of Staff of the Air Force Award, 2022 OSAM Hackathon
 - 2nd Place (Junior Category), 2024 PNU Tech Week Algorithm Contest
