@@ -1,7 +1,7 @@
 # Lee Si Woong
 
 ### Activities
-- Pusan National University CSE Senior (2020.03 ~ 2027.02)
+- Pusan National University CSE (2020.03 ~ 2027.02)
 - [KAIST Madcamp](https://madcamp.io/) (2024.06 ~ 2024.07)
 - [Kakao Tech Campus](https://www.kakaotechcampus.com/kakaotech/about/list.do) (2025.04 ~ 2025.11)
 
