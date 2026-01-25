@@ -6,8 +6,8 @@
 - [Kakao Tech Campus](https://www.kakaotechcampus.com/kakaotech/about/list.do) (2025.04 ~ 2025.11)
 
 
-### Projects
-- coming soon
+### Portfolio
+- https://resolute-lychee-f4d.notion.site/siwoong-portfolio
 
 ### Etc
 - Chief of Staff of the Air Force Award, 2022 OSAM Hackathon
