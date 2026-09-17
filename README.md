@@ -17,8 +17,8 @@
  
 - 부산대학교 화학과 bio nanoscopy lab 인턴 (2025.08 - 2026.09)
 - [카카오테크캠퍼스](https://www.kakaotechcampus.com/) 3기 백엔드 (2025.04 - 2025.11)
-- 부산대학교 정보컴퓨터공학부 (2020.03 - 2027.02)
-- 직접 쓰는 오픈소스 [기여](https://github.com/koomin1227/BOJ-Tester/issues/41), SQLD, 한능검
+- 부산대학교 정보컴퓨터공학부 (2020.03 - 2027.02) 
+- 직접 쓰는 오픈소스 [기여](https://github.com/koomin1227/BOJ-Tester/issues/41), SQLD, 한능검, 동아리(플젝 동아리, AI 학술동아리, 탁구 동아리)
 
 ## 수상
 - 2022 국방 해커톤 공군참모총장상
