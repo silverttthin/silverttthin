@@ -2,7 +2,7 @@
 
 ## 경력 및 경험
 - [Sendy](https://sendy.ai/) (2026.09 – Present)
-    - gradient descenting..
+    - gradient descending..
 
 - [KIOST](https://www.kiost.ac.kr/kor.do) (2026.07 - 2026.08)
     - 연구원 업무 자동화 시스템 구축 (실제 업무시간 45분 -> 0분 단축)
