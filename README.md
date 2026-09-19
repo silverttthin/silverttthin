@@ -1,10 +1,10 @@
 <img width="592" height="337" alt="image" src="https://github.com/user-attachments/assets/0be2643d-970d-44a6-8f72-5eaa55a08a01" />
 
 ## 경험
-- [Sendy](https://sendy.ai/) (2026.09 – Present)
+- [Sendy](https://sendy.ai/) (2026.09 ~ Present)
     - gradient descending..
 
-- [KIOST](https://www.kiost.ac.kr/kor.do) (2026.07 - 2026.08)
+- [KIOST](https://www.kiost.ac.kr/kor.do) (2026.07 ~ 2026.08)
     - 연구원 업무 자동화 시스템 구축 (실제 업무시간 45분 -> 0분 단축)
     - 연구원 업무 및 회의용 내부망 대시보드 제작 (원내 임원급 회의에 사용)
         - 원내 데이터베이스 최적화 
@@ -15,17 +15,17 @@
     - 기획 과정 참여, 백엔드 및 인프라 담당
     - 모두의 창업 1차, 교내 창업동아리 합격
  
-- 부산대학교 화학과 bio nanoscopy lab 인턴 (2025.08 - 2026.09)
+- 부산대학교 화학과 bio nanoscopy lab 인턴 (2025.08 ~ 2026.09)
   
-- [카카오테크캠퍼스](https://www.kakaotechcampus.com/) 3기 백엔드 (2025.04 - 2025.11)
+- [카카오테크캠퍼스](https://www.kakaotechcampus.com/) 3기 백엔드 (2025.04 ~ 2025.11)
     - 부산대 1팀 백엔드 리드
   
-- KAIST 몰입캠프 (2024.07 - 2024.08)
+- KAIST 몰입캠프 (2024.07 ~ 2024.08)
   
-- 부산대학교 정보컴퓨터공학부 (2020.03 - 2027.02)
+- 부산대학교 정보컴퓨터공학부 (2020.03 ~ 2027.02)
   
 - etc
-    - 직접 쓰는 오픈소스 [기능 기여](https://github.com/koomin1227/BOJ-Tester/issues/41)
+    - [컨트리뷰션](https://github.com/koomin1227/BOJ-Tester/issues/41)
     - 자격증 - SQLD, 한능검
   
 
