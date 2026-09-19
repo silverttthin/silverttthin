@@ -1,6 +1,6 @@
 <img width="592" height="337" alt="image" src="https://github.com/user-attachments/assets/0be2643d-970d-44a6-8f72-5eaa55a08a01" />
 
-## 경력 및 경험
+## 경험
 - [Sendy](https://sendy.ai/) (2026.09 – Present)
     - gradient descending..
 
@@ -36,8 +36,3 @@
 - 2025 카카오테크캠퍼스 아이디어톤 우수상
 - 2025 부산대학교 테크위크 게임 해커톤 2등
 
-### etc
-- 취미
-    - 피아노
-    - 러닝
-    - 게임
