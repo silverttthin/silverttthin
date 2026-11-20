@@ -1,5 +1,3 @@
-<img width="592" height="337" alt="image" src="https://github.com/user-attachments/assets/0be2643d-970d-44a6-8f72-5eaa55a08a01" />
-
 ## 경험
 - [Sendy](https://sendy.ai/) (2026.09 ~ Present)
     - gradient descending..
